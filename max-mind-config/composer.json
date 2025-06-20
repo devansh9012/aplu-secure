@@ -1,0 +1,12 @@
+{
+    "name": "your-org/max-mind-config",
+    "description": "Custom MaxMind config package",
+    "type": "library",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "MaxMind\\Config\\": "src/"
+        }
+    },
+    "license": "MIT"
+}
